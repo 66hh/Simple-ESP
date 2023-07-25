@@ -1,0 +1,6 @@
+[submodule "Detours"]
+	path = Detours
+	url = https://github.com/Microsoft/Detours/
+[submodule "glm"]
+	path = glm
+	url = https://github.com/g-truc/glm
