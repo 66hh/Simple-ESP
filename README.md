@@ -26,7 +26,14 @@ All compiled open-source releases available in our telegram [channel].
 ### Preview
 ![Image](../assets/Image.png?raw=true)
 
+### Support
+If you want to support me, you can subscribe to my telegram [channel] or send a voluntary donation to my next BTC wallet
+```
+173UHoNaXZtersBwdgsBh3eTrbXVPijQJ7
+```
+
 [channel]: <https://t.me/aurenex>
-[comparing]: <https://github.com/Aurenex/Simple-ESP/blob/ed5366a8edd581da16318c0069fffe6b22d03c6c/Simple%20ESP/DllMain.cpp#L184C2-L184C2>
-[save]: <https://github.com/Aurenex/Simple-ESP/blob/ed5366a8edd581da16318c0069fffe6b22d03c6c/Simple%20ESP/DllMain.cpp#L22>
-[use]: <https://github.com/Aurenex/Simple-ESP/blob/ed5366a8edd581da16318c0069fffe6b22d03c6c/Simple%20ESP/DllMain.cpp#L147>
+[comparing]: <../master/Simple%20ESP/DllMain.cpp#L184C2-L184C2>
+[save]: <../master/Simple%20ESP/DllMain.cpp#L22>
+[use]: <../master/Simple%20ESP/DllMain.cpp#L147>
+[LICENSE]: <../master/LICENSE.txt>
